@@ -1,4 +1,4 @@
-# This is a program created by pxlp. it was addapted
+# This is a program created by v3ai. it was addapted
 # from a program from
 # https://www.geeksforgeeks.org/draw-ellipse-using-turtle-in-python/?ref=lbp
 
